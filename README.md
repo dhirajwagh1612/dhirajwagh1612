@@ -1,54 +1,106 @@
-### नमस्ते (Namaste)🙏🏻, I'm Dhiraj Wagh [ ](https://media.giphy.com/media/4FQMuOKR6zQRO/giphy.gif)!
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=नमस्ते+(Namaste)+🙏🏻;I'm+Dhiraj+Wagh;Data+Scientist+%7C+AI+Enthusiast;Always+learning+new+things" alt="Typing SVG" />
+</div>
+
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-### 𝓘 𝓪𝓶 𝓪 𝓼𝓽𝓾𝓭𝓮𝓷𝓽 ,𝓯𝓪𝓼𝓬𝓲𝓷𝓪𝓽𝓮𝓭 𝓽𝓸𝔀𝓪𝓻𝓭𝓼 𝓓𝓪𝓽𝓪𝓢𝓬𝓲𝓮𝓷𝓬𝓮, 𝓐𝓘 𝓪𝓷𝓭 𝓜𝓛 ❤️
-<!--
-**dhirajwagh1612/Dhiraj-Wagh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+## 🧑‍💻 About Me
 
-- 🔭 I’m currently working on :- Data Science Projects
-- 🌱 I’m currently learning :- Deep Learning
-- 🤔 I’m looking for help with :- DL, Computer Vision & NLP
-- 💬 Ask me about:- Anything ( not my personal life , duhh !!)
-- 👩🏻‍💻 Currently Working as a Jr. Data Scientist with Speech Markers Pvt. Ltd Pune
-- 📫 How to reach me:  ✔️[Linkedin](https://www.linkedin.com/in/dhiraj-wagh-036524161/) ✔️[Mail](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSGLdWBKcXhRzZpBnLQGVhSxklqhgtffzRqhmBQpQRPSTrfvCkDdkDXrVdSgXDdbxPhDFjWP)
-- 😄 Pronouns: He / Him
-- ⚡ Fun fact:  Right now I'm looking at you, 'cause you're looking at me.
+**𝓘 𝓪𝓶 𝓪 𝓼𝓽𝓾𝓭𝓮𝓷𝓽, 𝓯𝓪𝓼𝓬𝓲𝓷𝓪𝓽𝓮𝓭 𝓽𝓸𝔀𝓪𝓻𝓭𝓼 𝓓𝓪𝓽𝓪𝓢𝓬𝓲𝓮𝓷𝓬𝓮, 𝓐𝓘 𝓪𝓷𝓭 𝓜𝓛 ❤️**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhirajwagh1612&label=Profile%20views&color=0e75b6&style=flat-square" alt="Dhiraj-Wagh" /> </p>
-<p> <img src="https://img.shields.io/github/followers/dhirajwagh1612?style=social" alt="Dhiraj-Wagh" /> </p>
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people </b>so if you want to say hi, <b> I'll be happy to meet you more!</b> 😊</em>
+- 🔭 Currently working on **Data Science Projects**
+- 🌱 Currently learning **Deep Learning**
+- 👨‍💼 Working as **Jr. Data Scientist** at Speech Markers Pvt. Ltd, Pune
+- 🤝 Looking for help with **Deep Learning, Computer Vision & NLP**
+- 💬 Ask me about **Data Science, Machine Learning, AI**
+- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/dhiraj-wagh-036524161/)** | **[Email](mailto:dhirajwagh1612@gmail.com)**
+- 😄 Pronouns: **He/Him**
+- ⚡ Fun fact: **Right now I'm looking at you, 'cause you're looking at me** 👀
 
-[<img align="left" alt="Dhiraj Wagh | LinkedIn" width="40px" src="https://img.icons8.com/color/48/000000/linkedin.png" />](https://www.linkedin.com/in/dhiraj-wagh-036524161/)
-[<img align="left" alt="Dhiraj Wagh | Mail" width="40px" src="https://img.icons8.com/fluent/48/000000/gmail.png" />](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSGLdWBKcXhRzZpBnLQGVhSxklqhgtffzRqhmBQpQRPSTrfvCkDdkDXrVdSgXDdbxPhDFjWP)
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=dhirajwagh1612&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/dhirajwagh1612?style=social" alt="GitHub followers" />
+</div>
 
-<h2></h2>
+---
 
+## 🛠️ Tech Stack
 
-<h2></h2>
-<h3 align="left"><b>Languages and Tools:</b></h3>
-<p align="left"> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
-<a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
- <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>
-<a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-<a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
- <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a>
- <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  
-<a href="https://flutter.dev/docs/reference/tutorials" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/> </a>
-<a href="https://www.tensorflow.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" alt="6tensorflow" width="40" height="40"/> </a> </p>
+<div align="center">
 
-<h3 align="left">Reach me :</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/dhiraj-wagh-036524161/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/dhiraj-wagh-036524161/" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/dhirajmwagh1111" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="https://www.kaggle.com/dhirajmwagh1111" height="30" width="40" /></a>
-<a href="https://www.facebook.com/dhiraj.wagh.18" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/dhiraj.wagh.18" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/dhiraj_m_wagh111" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="https://www.hackerrank.com/dhiraj_m_wagh111" height="30" width="40" /></a>
-<a href="https://leetcode.com/dhirajwagh1612/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="https://leetcode.com/dhirajwagh1612/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/dhirajmwagh1111" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="https://auth.geeksforgeeks.org/user/dhirajmwagh1111" height="30" width="40" /></a>
-</p>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=dhirajwagh1612&show_icons=true&locale=en" alt="dhirajwagh1612" />
- </p><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhirajwagh1612&show_icons=true&title_color=3a0e8b&locale=en&layout=compact" alt="dhirajwagh1612" /></p>
- 
- 
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+### Data Science & ML
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+### Web Development
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+### Mobile Development
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Tools & Others
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dhirajwagh1612&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhirajwagh1612&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhirajwagh1612&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
+---
+
+## 🌐 Connect with Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhiraj-wagh-036524161/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/dhirajmwagh1111)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/dhiraj_m_wagh111)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/dhirajwagh1612/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/dhirajmwagh1111)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/dhiraj.wagh.18)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
+  <br>
+  <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
+---
+
+<div align="center">
+  <b>Thanks for visiting my profile! 🙏</b>
+  <br>
+  <b>Happy Coding! 🚀</b>
+</div>
